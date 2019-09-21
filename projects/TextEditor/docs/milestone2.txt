@@ -1,0 +1,14 @@
+For milestone 2 I felt a bit lost on what was expected to happen from the command line prompts.
+I felt like this distracted me from the other parts of the project. On Thursday when we got some
+of the questions answered and it seemed like I was looking in the right place after all but I was
+not confident in the answer. I spent the next few days trying to understand implementing vectors.
+I feel that I need to practice with them more to get a more adequate handle on them. I found help
+on C++.com as well as stackoverflow and from my c++ book that was recommended. I hope that the next
+classes we can go over more in-class examples. I will use the next two weeks to catch up and hopefully
+better understand ncurses. I have been looking at Qt and there is more material available online it 
+seems to understand it. I may switch to that library. I am still unable to fix the highlight issue. I looked 
+over the curses library to find some kind of solution but the code still doesn't work. The vectors are not 
+working either nor is the command line arguments. I skipped that part and decided to hard code it as 
+I heard from other students using that as a solution. It is interesting to see everyone having completely
+different implementations of the same project which is both a curse and a blessing. It is creative but at 
+the same time it makes it hard to follow and learn. 
